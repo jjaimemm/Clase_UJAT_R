@@ -1,0 +1,21 @@
+Amino acid,Code 3,Code 1,Mass,Surface,Volume
+Alanine,"ALA",A,71.09,115,88.6
+Arginine,"ARG",R,156.19,225,173.4
+Aspartic Acid,"ASP",D,114.11,150,111.1
+Asparagine,"ASN",N,115.09,160,114.1
+Cysteine,"CYS",C,103.15,135,108.5
+Glutamic Acid,"GLU",E,129.12,190,138.4
+Glutamine,"GLN",Q,128.14,180,143.8
+Glycine,"GLY",G,57.05,75,60.1
+Histidine,"HIS",H,137.14,195,153.2
+Isoleucine,"ILE",I,113.16,175,166.7
+Leucine,"LEU",L,113.16,170,166.7
+Lysine,"LYS",K,128.17,200,168.6
+Methionine,"MET",M,131.19,185,162.9
+Phenylalanine,"PHE",F,147.18,210,189.9
+Proline,"PRO",P,97.12,145,112.7
+Serine,"SER",S,87.08,115,89
+Threonine,"THR",T,101.11,140,116.1
+Tryptophan,"TRP",W,186.12,255,227.8
+Tyrosine,"TYR",Y,163.18,230,193.6
+Valine,"VAL",V,99.14,155,140
